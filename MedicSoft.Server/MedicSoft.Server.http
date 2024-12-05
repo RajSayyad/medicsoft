@@ -1,0 +1,6 @@
+@MedicSoft.Server_HostAddress = http://localhost:5193
+
+GET {{MedicSoft.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
